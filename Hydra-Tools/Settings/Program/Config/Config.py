@@ -1,0 +1,7 @@
+name_tool = "Hydra"
+version_tool = "4.6"
+coding_tool = "Python 3"
+language_tool = "EN"
+creator = "Hydra"
+platform = "Windows 10/11 & Linux"
+discord_server = "https://discord.gg/WKUTxUGs"
