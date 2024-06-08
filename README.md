@@ -1,3 +1,5 @@
+launche setup.bat and start.bat
+
 📜・Description
 
 👨‍💻 -> Developed in Python
